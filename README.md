@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Md Shefatul Islam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Clean and scalable coder using JAVA </h3>
 
 <div align="center"><IMG SRC="shefat.gif"></div>
 
